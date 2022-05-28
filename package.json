@@ -38,7 +38,7 @@
   },
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "typescript": "3.9.5"
+    "typescript": "3.9.10"
   },
   "description": "DXswap core is a fork of the [Uniswapv2 core smart contracts v1.0.0](https://github.com/Uniswap/uniswap-v2-core/releases/tag/v1.0.0).",
   "main": "truffle-config.js",
